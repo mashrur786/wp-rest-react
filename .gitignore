@@ -1,6 +1,6 @@
 .htaccess
-wp-config.php
 .DS_Store
+wp-config.php
 node_modules
-fontend/node_modules
+
 
